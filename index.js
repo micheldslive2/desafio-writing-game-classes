@@ -1,0 +1,1 @@
+require("./writing-game-classes");
